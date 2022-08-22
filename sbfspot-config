@@ -146,7 +146,7 @@ create_defaults()
 	inv_serials=""
 	
 	# SBFspot.cfg Variables
-	BTAddress="E8:48:B8:C8:20:00"
+	BTAddress="EA:C4:02:52:08:00"
 	IP_Address="0.0.0.0"
 	Password="0000"
 	Plantname="CherryAve"
