@@ -151,9 +151,9 @@ create_defaults()
 	Password="0000"
 	Plantname="CherryAve"
 	MIS_Enabled="0"
-	BTConnectRetries="10"
+	BTConnectRetries="15"
 	
-	CSV_Export="0"
+	CSV_Export="1"
 	OutputPath="$dir_smadata/%Y"
 	OutputPathEvents="$dir_smadata/%Y/Events"
 	CSV_ExtendedHeader="1"
